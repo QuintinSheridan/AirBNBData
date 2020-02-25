@@ -1,6 +1,9 @@
 # AirBNBData
 # Motivation
 Jupyter notebook project to analyze one years worth of AirBNBData from Boston and Seattle.
+An article discussing the findings is avalable here:
+
+https://medium.com/@qsherida/where-should-you-stay-boston-vs-seattle-airbnb-6e8effbd2c59
 
 # Files
 * airBNB.ipy - Jupyter notebook with data anlysis
@@ -20,6 +23,8 @@ The prices in both cities very with the time of year.  Modeling the time of year
 
 # Requirements
 All required python libraries can be found in requirements.txt.
+
+
 
 
 

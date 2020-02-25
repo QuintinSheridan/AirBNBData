@@ -7,6 +7,7 @@ https://medium.com/@qsherida/where-should-you-stay-boston-vs-seattle-airbnb-6e8e
 
 # Files
 * airBNB.ipy - Jupyter notebook with data anlysis
+* requirements.txt - python required libraries
 * Data/boston_calendar.csv - calender data for Boston
 * Data/boston_listings.csv - listings data for Boston
 * Data/boston_reviews.csv - reviews data for Boston

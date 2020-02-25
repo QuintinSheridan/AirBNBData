@@ -16,7 +16,7 @@ Data sets can be found here:
 * https://www.kaggle.com/airbnb/boston
 
 # Results
-The prices in both cities bvery with the time of year.  Modeling the time of year as a categorical variable gives the best performance when trying to predict price based on on properties of the AirBNB rental.  Prices and accomodation very more in Boston than Seattle.
+The prices in both cities very with the time of year.  Modeling the time of year as a categorical variable gives the best performance when trying to predict price based on on properties of the AirBNB rental.  Prices and accomodation very more in Boston than Seattle.
 
 # Requirements
 All required python libraries can be found in requirements.txt.
